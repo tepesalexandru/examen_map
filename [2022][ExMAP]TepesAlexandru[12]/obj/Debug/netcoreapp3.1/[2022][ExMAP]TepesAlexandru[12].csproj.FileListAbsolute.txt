@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].exe
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].deps.json
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].runtimeconfig.json
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].runtimeconfig.dev.json
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].dll
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].pdb
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].AssemblyInfo.cs
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].dll
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].pdb
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[12]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[12].genruntimeconfig.cache

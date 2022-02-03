@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohelBhKYOdy6xDLuNq5OBRDZffp3C22EhVh6Lun9H7SYEzUlQjv+gt4lDGTZ9luY00msAI1RcChLtwhq3ppc9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\Facultate\\Anul_II\\MAP\\Examen\\[2022][ExMAP]TepesAlexandru[12]\\[2022][ExMAP]TepesAlexandru[12].csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
