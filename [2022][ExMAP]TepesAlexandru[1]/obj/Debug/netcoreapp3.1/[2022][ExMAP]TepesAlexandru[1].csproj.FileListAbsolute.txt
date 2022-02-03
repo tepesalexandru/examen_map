@@ -1,0 +1,14 @@
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].exe
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].deps.json
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].runtimeconfig.json
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].runtimeconfig.dev.json
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].dll
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\bin\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].pdb
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].AssemblyInfo.cs
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].dll
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].pdb
+C:\Users\Alex\Documents\Facultate\Anul_II\MAP\Examen\[2022][ExMAP]TepesAlexandru[1]\obj\Debug\netcoreapp3.1\[2022][ExMAP]TepesAlexandru[1].genruntimeconfig.cache
